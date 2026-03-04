@@ -57,6 +57,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=24&center=true&lines=Software+Engineering+Student;JavaScript+•+HTML+•+CSS;Python+•+PowerShell;Dark+Code+Lover+🖤;Welcome+to+my+Cyber+Profile..." />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dark_Mode-Active-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraKathlen&theme=github_dark"/>
+
+</div>
+
 ###
 
 <div align="center">
@@ -99,4 +123,5 @@
 ###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
 
