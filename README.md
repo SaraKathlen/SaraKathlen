@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- FUNDO ANIMADO -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="50%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="100%" height="400px" />
 
 </div>
 
@@ -30,7 +30,7 @@
 <div align="center">
 
 <h1 style="color:#880000; text-shadow: 0 0 10px #880000, 0 0 30px #8B0000;">
-Sara Kathlen 🩸
+⛤ Sara Kathlen ⛤
 </h1>
 
 <b style="color:white;">ソ フ ト ウ ェ ア エ ン ジ ニ ア</b>
