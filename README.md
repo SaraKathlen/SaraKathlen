@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- FUNDO ANIMADO -->
-<img src="https://i.gifer.com/7VE.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdnMWg3NHB3b3J2cWh5ejUwcjJ0azdzZDVrZWRhOWo4ejFmcDkwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sNUWF7fAUP2q4/giphy.gif" width="50%" />
 
 </div>
 
@@ -13,13 +13,13 @@
 
 <!-- MASCOTE NEON -->
 <img 
-  src="LINK_DA_SUA_MASCOTE_AQUI"
+  src="dark.png"
   width="300"
   style="
     border-radius: 30px;
-    box-shadow: 0 0 20px #ff0000,
-                0 0 40px #8B0000,
-                0 0 80px #ff0000;
+    box-shadow: 0 0 20px #880000,
+                0 0 40px #4e0101,
+                0 0 80px #880000;
   "
 />
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<h1 style="color:#ff0000; text-shadow: 0 0 10px #ff0000, 0 0 30px #8B0000;">
+<h1 style="color:#880000; text-shadow: 0 0 10px #880000, 0 0 30px #8B0000;">
 Sara Kathlen 🩸
 </h1>
 
