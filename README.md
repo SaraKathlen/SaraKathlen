@@ -68,7 +68,7 @@
 
 </div>
 
-<br> <br> <details align="center"> <summary> <samp> <b>More Info</b> </samp> </summary> <br> ## <br> <div align="center"> <samp> <b> Contact me: </b> </samp> <br> <br> [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F) [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2) [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/) </div> <div align="center"> <p align="center"> <samp> ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹ <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹ <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹ <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡ </samp> </p> </div> <br> </details>
+<br> <br> <details align="center"> <summary> <samp> <b>More Info</b> </samp> </summary> <br> Third-semester Software Engineering student seeking an internship opportunity to grow, innovate, and build technologies. <br> <div align="center"> <samp> <b> Contact me: </b> </samp> <br> <br> [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](sarakathlenqueiroz@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F) [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/sarakathlenqueirozdesouza-softwareengineering) </div> <div align="center"> <p align="center"> <samp> ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹ <a href="www.linkedin.com/in/sarakathlenqueirozdesouza-softwareengineering">linktr.ee</a> ⊹ <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡ </samp> </p> </div> <br> </details>
 
 <br><br>
 
@@ -80,6 +80,13 @@
 
 <br>
 
+## ⛤ About Me ⛤
+
+<samp>
+💻 Software Engineering Student  
+🧠 Focused on clean code & creative interfaces  
+🌑 Passionate about crafting unique and immersive interface designs.  
+🚀 Every project I develop carries a unique and technological identity, merging aesthetics, purpose, and innovation in every line of code.  
+</samp>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
-
-
