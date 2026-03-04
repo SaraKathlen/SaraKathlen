@@ -78,9 +78,8 @@
 
 </div>
 
-<br> <div align="center"> <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=kamillyvm&style=flat-square&color=123845" /></p> </div> <br>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
 
