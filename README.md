@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- FUNDO ANIMADO -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="500px" height="400px" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="100%" height="400px" />
 
 </div>
 
@@ -27,13 +27,7 @@
 
 <br>
 
-<div align="center">
-
-<h1 style="color:#880000; text-shadow: 0 0 10px #880000, 0 0 30px #8B0000;">
-⛤ Sara Kathlen ⛤
-</h1>
-
-<b style="color:white;">ソ フ ト ウ ェ ア エ ン ジ ニ ア</b>
+<div align="center"> <b>プ ロ グ ラ マ</b> <samp> <br style="color:#880000; text-shadow: 0 0 10px #880000, 0 0 30px #8B0000;"> Hi there! I'm <b>⛤ Sara Kathlen ⛤</b> </samp> </div>
 
 </div>
 
@@ -74,6 +68,8 @@
 
 </div>
 
+<br> <br> <details align="center"> <summary> <samp> <b>More Info</b> </samp> </summary> <br> ## <br> <div align="center"> <samp> <b> Contact me: </b> </samp> <br> <br> [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F) [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2) [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/) </div> <div align="center"> <p align="center"> <samp> ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹ <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹ <a href="https://kamillymedino.carrd.co/">carrd.co</a> ⊹ <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡ </samp> </p> </div> <br> </details>
+
 <br><br>
 
 <div align="center">
@@ -85,4 +81,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
-
