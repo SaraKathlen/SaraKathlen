@@ -6,7 +6,7 @@
 
   <!-- MASCOTE DARK FUTURISTA -->
   <img 
-    src="images/mascote.png" 
+    src="dark.png" 
     alt="Mascote Dark Futurista"
     width="280"
     style="
