@@ -1,117 +1,87 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12&section=header&animation=fadeIn"/>
-
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:8B0000&section=header&animation=fadeIn"/>
 
 <div align="center">
 
-  <!-- MASCOTE DARK FUTURISTA -->
-  <img 
-    src="dark.png" 
-    alt="Mascote Dark Futurista"
-    width="280"
-    style="
-      border-radius: 25px;
-      box-shadow: 0 0 40px #8B0000;
-      transition: 0.5s;
-    "
-  />
+<!-- FUNDO ANIMADO -->
+<img src="https://i.gifer.com/7VE.gif" width="100%" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img align="center" height="180" src="https://i.imgur.com/8Km9tLL.png"/>
-</div>
 
-<div align="center">
-  
-  <b>`ソ フ ト ウ ェ ア エ ン ジ ニ ア`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Sara Kathlen</b> 🩸
-  </samp>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8B0000&width=900&size=22&center=true&lines=Software+Engineering+Student;JavaScript+•+HTML+•+CSS;Python+•+PowerShell;Dark+Code+Lover+🖤;Be+Welcome+to+my+Profile..." alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Sara_🩸-black?style=for-the-badge&logo=github"/>
-</div>
-      
-<br>
-<br>
-
-<div align="center">
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraKathlen&theme=github_dark"/>
-</div>
-
-<br>
-
-<div align="center" style="display: inline_block"><br>
-
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
-  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-
-</div>
-
-<br>
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>🩸 More About Me</b>
-      </samp>
-  </summary>
-  
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact Me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAILAQUI)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINKAQUI)
-  [![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](SEUINSTAAQUI)
+<!-- MASCOTE NEON -->
+<img 
+  src="LINK_DA_SUA_MASCOTE_AQUI"
+  width="300"
+  style="
+    border-radius: 30px;
+    box-shadow: 0 0 20px #ff0000,
+                0 0 40px #8B0000,
+                0 0 80px #ff0000;
+  "
+/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <samp>
-    🧛 Passionate about technology, creativity and building impactful solutions.<br>
-    🖤 Future Software Engineer.<br>
-    🩸 Turning coffee into code.
-  </samp>
+
+<h1 style="color:#ff0000; text-shadow: 0 0 10px #ff0000, 0 0 30px #8B0000;">
+Sara Kathlen 🩸
+</h1>
+
+<b style="color:white;">ソ フ ト ウ ェ ア エ ン ジ ニ ア</b>
+
 </div>
-
-<br>
-
-</details>
 
 <br>
 
 <div align="center">
-  <p align="center">
-    <img align="center" src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=8B0000"/>
-  </p> 
+
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=24&center=true&lines=Software+Engineering+Student;JavaScript+•+HTML+•+CSS;Python+•+PowerShell;Dark+Code+Lover+🖤;Welcome+to+my+Cyber+Profile..." />
+
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12&section=footer"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Dark_Mode-Active-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraKathlen&theme=github_dark"/>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
+<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=FF0000"/>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
