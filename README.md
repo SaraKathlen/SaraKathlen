@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- FUNDO ANIMADO -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="100%" height="400px" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHljN2Npc2t1bmNsbG1qMWYzMG5jMHdodzN3b200czQ0ZXpqM203ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvwTCWphjPoXr3U1PE/giphy.gif" width="500px" height="400px" />
 
 </div>
 
@@ -85,3 +85,4 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
