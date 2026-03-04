@@ -25,68 +25,78 @@
 
 </div>
 
-<br>
+<h1 align="left">Hi there! I'm ⛤ Sara Kathlen ⛤</h1>
 
-<div align="center"> <b>プ ロ グ ラ マ</b> <samp> <br style="color:#880000; text-shadow: 0 0 10px #880000, 0 0 30px #8B0000;"> Hi there! I'm <b>⛤ Sara Kathlen ⛤</b> </samp> </div>
+###
 
+<p align="left">My name is Sara Kathlen, and I am currently pursuing a degree in Software Engineering, now in my third semester. I am passionate about technology and the power it has to transform ideas into meaningful digital experiences. I am especially interested in creating projects with strong identity, systems that go beyond functionality and reflect purpose, structure, and thoughtful interface design. I value clean code, organized architecture, and visually distinctive user experiences that combine aesthetics with efficiency. Throughout my academic journey, I have been developing projects that connect creativity and engineering, exploring technologies such as JavaScript, CSS, Python, and PowerShell. I enjoy building solutions that are not only technically solid but also impactful and intentional. <br><br>Currently, I am seeking an internship opportunity in Software Engineering or web Development, where I can continue learning, contribute to innovative projects, and grow as a developer in a collaborative environment.</p>
+
+###
+
+<h2 align="left">⛤ About me ⛤</h2>
+
+###
+
+<p align="left">💻 Software Engineering Student  <br>🧠 Focused on clean code & creative interfaces  <br>🌑 Passionate about crafting unique and immersive interface designs.  <br>🚀 Every project I develop carries a unique and technological identity, merging aesthetics, purpose, and innovation in every line of code.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-<br>
+###
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=24&center=true&lines=Software+Engineering+Student;JavaScript+•+HTML+•+CSS;Python+•+PowerShell;Dark+Code+Lover+🖤;Welcome+to+my+Cyber+Profile..." />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SaraKathlen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraKathlen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br>
+###
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Dark_Mode-Active-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
-
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/2" alt="Medium post 3"  />
+  </a>
 </div>
 
-<br><br>
+###
 
-<div align="center">
+<h2 align="left">Contact me:</h2>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraKathlen&theme=github_dark"/>
+###
 
+<div align="left">
+  <a href="www.linkedin.com/in/sarakathlenqueirozdesouza-softwareengineering" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="mailto:sarakathlenqueiroz@gmail.com?subject=sarakathlenqueiroz@gmail.com&body=sarakathlenqueiroz@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-<br><br>
-
-<div align="center">
-
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
-<img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-
-</div>
-
-<br> <br> <details align="center"> <summary> <samp> <b>More Info</b> </samp> </summary> <br> Third-semester Software Engineering student seeking an internship opportunity to grow, innovate, and build technologies. <br> <div align="center"> <samp> <b> Contact me: </b> </samp> <br> <br> [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](sarakathlenqueiroz@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-123845?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F) [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/sarakathlenqueirozdesouza-softwareengineering) </div> <div align="center"> <p align="center"> <samp> ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹ <a href="www.linkedin.com/in/sarakathlenqueirozdesouza-softwareengineering">linktr.ee</a> ⊹ <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡ </samp> </p> </div> <br> </details>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=FF0000"/>
-
-</div>
-
-<br>
-
-## ⛤ About Me ⛤
-
-<samp>
-💻 Software Engineering Student  
-🧠 Focused on clean code & creative interfaces  
-🌑 Passionate about crafting unique and immersive interface designs.  
-🚀 Every project I develop carries a unique and technological identity, merging aesthetics, purpose, and innovation in every line of code.  
-</samp>
+###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
