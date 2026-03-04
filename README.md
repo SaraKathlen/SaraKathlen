@@ -1,75 +1,103 @@
-<!-- 🩸 FUTURISTIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,100:FF0033&section=header&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12&section=header&animation=fadeIn"/>
 
 <br>
 
 <div align="center">
-  <img align="center" height="200" src="https://i.imgur.com/8Km9tLL.png"/>
-</div>
 
-<div align="center">
-  <h1 style="color:#FF0033; font-size:42px;">ソ フ ト ウ ェ ア エ ン ジ ニ ア</h1>
-  <h2 style="color:#B11226;">Hi, I'm <b>Sara Kathlen</b> 🩸</h2>
+  <!-- MASCOTE DARK FUTURISTA -->
+  <img 
+    src="images/mascote.png" 
+    alt="Mascote Dark Futurista"
+    width="280"
+    style="
+      border-radius: 25px;
+      box-shadow: 0 0 40px #8B0000;
+      transition: 0.5s;
+    "
+  />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2200&pause=700&color=FF0033&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;JavaScript+💛+HTML+🧡+CSS+💙;Python+🐍+PowerShell+🔷;Dark+Mode+Enthusiast+🖤;Building+Impactful+Solutions"/>
+  <img align="center" height="180" src="https://i.imgur.com/8Km9tLL.png"/>
+</div>
+
+<div align="center">
+  
+  <b>`ソ フ ト ウ ェ ア エ ン ジ ニ ア`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Sara Kathlen</b> 🩸
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8B0000&width=900&size=22&center=true&lines=Software+Engineering+Student;JavaScript+•+HTML+•+CSS;Python+•+PowerShell;Dark+Code+Lover+🖤;Be+Welcome+to+my+Profile..." alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Sara_Kathlen-000000?style=for-the-badge&logo=github&logoColor=FF0033&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Sara_🩸-black?style=for-the-badge&logo=github"/>
 </div>
-
-<br><br>
+      
+<br>
+<br>
 
 <div align="center">
-  <img align="center" alt="Profile Details" 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEUUSUARIOAQUI&theme=radical"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaraKathlen&theme=github_dark"/>
 </div>
 
 <br>
 
-<!-- 🩸 TECH STACK -->
-<div align="center">
+<div align="center" style="display: inline_block"><br>
 
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
-<img width="65" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 
 </div>
 
-<br><br>
+<br>
+<br>
 
 <details align="center">  
   <summary>
-      <b style="color:#FF0033;">🩸 More About Me</b>
+      <samp>
+        <b>🩸 More About Me</b>
+      </samp>
   </summary>
   
 <br>
 
 <div align="center">
-  <b style="color:#B11226;">Contact Me</b>
-  <br><br>
+  <samp>
+    <b>
+      Contact Me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0033)](mailto:SEUEMAILAQUI)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0033)](SEULINKAQUI)
-  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF0033)](SEUINSTAAQUI)
+  [![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAILAQUI)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)](SEULINKAQUI)
+  [![Instagram](https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=white)](SEUINSTAAQUI)
 
 </div>
 
 <br>
 
 <div align="center">
-  🧛 Passionate about technology and impactful systems.<br>
-  🖤 Future Software Engineer.<br>
-  🩸 Turning coffee into scalable code.
+  <samp>
+    🧛 Passionate about technology, creativity and building impactful solutions.<br>
+    🖤 Future Software Engineer.<br>
+    🩸 Turning coffee into code.
+  </samp>
 </div>
 
 <br>
@@ -79,10 +107,11 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIOAQUI&style=for-the-badge&color=FF0033"/>
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=8B0000"/>
+  </p> 
 </div>
 
 <br>
 
-<!-- 🩸 FUTURISTIC FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:000000,100:FF0033&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,12&section=footer"/>
