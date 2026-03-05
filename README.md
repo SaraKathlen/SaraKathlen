@@ -90,17 +90,7 @@
 
 ###
 
-<div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@@Sarakathlen/2" alt="Medium post 3"  />
-  </a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=FF0000"/>
 
 ###
 
@@ -123,5 +113,6 @@
 ###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
 
 
