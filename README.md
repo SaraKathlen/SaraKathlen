@@ -14,7 +14,7 @@
 <!-- MASCOTE NEON -->
 <img 
   src="dark.png"
-  width="300"
+  width="200"
   style="
     border-radius: 30px;
     box-shadow: 0 0 20px #880000,
@@ -87,13 +87,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaraKathlen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaraKathlen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img src="https://komarev.com/ghpvc/?username=SaraKathlen&style=for-the-badge&color=FF0000"/>
 
 ###
@@ -117,6 +110,7 @@
 ###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
 
 
 
