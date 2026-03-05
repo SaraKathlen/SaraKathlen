@@ -25,6 +25,16 @@
 
 </div>
 
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZ2MzZydDUyY2NtbXM4dWx5MnUyM2NxOHBsYTJ3bTdya2tlenJ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif"  />
+</div>
+
+###
+
+<p align="center">プ ロ グ ラ マ</p>
+
+###
+
 <h1 align="left">Hi there! I'm ⛤ Sara Kathlen ⛤</h1>
 
 ###
@@ -113,6 +123,7 @@
 ###
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B0000,100:000000&section=footer"/>
+
 
 
 
